@@ -1,0 +1,1 @@
+https://datageo.ambiente.sp.gov.br/geoserver/datageo/SedesAgenciasAmbientaisCETESB2019/wfs?version=1.0.0&request=GetFeature&outputFormat=SHAPE-ZIP&typeName=SedesAgenciasAmbientaisCETESB2019

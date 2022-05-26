@@ -1,0 +1,36 @@
+<dataStore>
+  <id>DataStoreInfoImpl--48b7eee8:17d32c6111b:-7fd0</id>
+  <name>DBSIPOL</name>
+  <type>Microsoft SQL Server</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--48b7eee8:17d32c6111b:-7fd2</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="schema">dbo</entry>
+    <entry key="Evictor run periodicity">300</entry>
+    <entry key="Use native geometry serialization">false</entry>
+    <entry key="Batch insert size">1</entry>
+    <entry key="database">DBSIPOL</entry>
+    <entry key="host">srvsqldv</entry>
+    <entry key="Use Native Paging">true</entry>
+    <entry key="Force spatial index usage via hints">false</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="validate connections">true</entry>
+    <entry key="Connection timeout">20</entry>
+    <entry key="Integrated Security">false</entry>
+    <entry key="port">1433</entry>
+    <entry key="passwd">crypt1:UPef+hnWCzV75RYG8pazb0bvnBgPA2fz</entry>
+    <entry key="min connections">1</entry>
+    <entry key="dbtype">sqlserver</entry>
+    <entry key="namespace">cetesb</entry>
+    <entry key="max connections">10</entry>
+    <entry key="Evictor tests per run">3</entry>
+    <entry key="Test while idle">true</entry>
+    <entry key="user">usugeoimagem</entry>
+    <entry key="Max connection idle time">300</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-11-18 11:40:47.274 UTC</dateCreated>
+</dataStore>

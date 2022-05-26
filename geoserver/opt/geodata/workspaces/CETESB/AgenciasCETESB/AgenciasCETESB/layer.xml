@@ -1,0 +1,17 @@
+<layer>
+  <name>AgenciasCETESB</name>
+  <id>LayerInfoImpl-3721dade:17d37fab7f5:-7fab</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3721dade:17d37fab7f5:-7fa4</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3721dade:17d37fab7f5:-7fac</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-19 12:58:25.762 UTC</dateCreated>
+  <dateModified>2021-11-19 13:00:07.257 UTC</dateModified>
+</layer>

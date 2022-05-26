@@ -1,0 +1,17 @@
+<layer>
+  <name>empreendimentos</name>
+  <id>LayerInfoImpl-56750694:17d4ca8d6d5:-7ffa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1d5fbcaf:17d33601a63:-7ff5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-56750694:17d4ca8d6d5:-7ffb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-23 14:06:29.945 UTC</dateCreated>
+  <dateModified>2021-11-23 16:48:34.745 UTC</dateModified>
+</layer>

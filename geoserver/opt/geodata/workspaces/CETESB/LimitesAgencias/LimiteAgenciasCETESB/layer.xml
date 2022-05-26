@@ -1,0 +1,17 @@
+<layer>
+  <name>LimiteAgenciasCETESB</name>
+  <id>LayerInfoImpl-3721dade:17d37fab7f5:-7fae</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1d5fbcaf:17d33601a63:-7fd2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3721dade:17d37fab7f5:-7faf</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-19 12:56:49.59 UTC</dateCreated>
+  <dateModified>2021-11-19 12:58:59.50 UTC</dateModified>
+</layer>

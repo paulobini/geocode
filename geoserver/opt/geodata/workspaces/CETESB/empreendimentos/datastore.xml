@@ -1,0 +1,24 @@
+<dataStore>
+  <id>DataStoreInfoImpl-56750694:17d4ca8d6d5:-7ffc</id>
+  <name>empreendimentos</name>
+  <type>Directory of spatial files (shapefiles)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--48b7eee8:17d32c6111b:-7fd2</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">UTF-8</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">true</entry>
+    <entry key="timezone">America/Sao_Paulo</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">cetesb</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file:shape/empreendimentos</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-11-23 14:06:17.872 UTC</dateCreated>
+  <dateModified>2021-11-23 14:07:38.595 UTC</dateModified>
+</dataStore>

@@ -1,0 +1,24 @@
+<dataStore>
+  <id>DataStoreInfoImpl-3721dade:17d37fab7f5:-7fad</id>
+  <name>AgenciasCETESB</name>
+  <type>Directory of spatial files (shapefiles)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--48b7eee8:17d32c6111b:-7fd2</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">ISO-8859-1</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">true</entry>
+    <entry key="timezone">America/Sao_Paulo</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">cetesb</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file:shape/agencias/agencias_cetesb</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-11-19 12:57:55.43 UTC</dateCreated>
+  <dateModified>2021-11-19 17:03:13.283 UTC</dateModified>
+</dataStore>
